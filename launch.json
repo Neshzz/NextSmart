@@ -1,0 +1,45 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: main.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: logger.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/logger.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: image_processor.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/image_processor.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: gui.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/gui.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: tooltip.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/tooltip.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}

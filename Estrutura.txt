@@ -1,0 +1,4 @@
+NextSmart/
+│        # Ponto de entrada do programa
+├── gui.py           # Interface gráfica e ponto de entrada do programa
+├── image_processor.py # código que faz o processamento
