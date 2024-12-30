@@ -1,9 +1,8 @@
 # NextSmart
 NextSmart (Image Processor)
+Instruções para Uso do Código NextSmart
 
 ![image](https://github.com/user-attachments/assets/c9d56c30-5c48-4dab-8243-687e7436489e)
-
-Instruções para Uso do Código NextSmart
 
 # Requisitos:
 
