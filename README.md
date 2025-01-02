@@ -1,6 +1,6 @@
 # NextSmart
 NextSmart (Image Processor)
-Instruções para Uso do Código NextSmart
+Instruções para Uso NextSmart
 
 ![Captura de tela 2025-01-01 205358](https://github.com/user-attachments/assets/72ac42aa-4339-4090-8aa8-60271a3ae2c4)
 ![image](https://github.com/user-attachments/assets/3c67b897-3fc5-49ff-a9a8-8855eba95a03)
